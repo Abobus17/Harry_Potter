@@ -6,15 +6,14 @@ img {
       margin-bottom: 10px;
     }
     body {
-      background-color: #181936eb;
-      font-family: 'Arial', sans-serif;
+      background-color: #9c8055eb;
+      font-family: 'Pacifico', cursive;;
     }
     #header {
-      background: #565887eb;
+      background: #d9bb8feb;
       color: white;
       padding: 20px;
       text-align: center;
-      font-family: 'Pacifico', cursive;
     }
     .column {
       width: 33.33%;
@@ -34,15 +33,12 @@ img {
       color:#ffffffeb;
     }
     h3 {
-      color: #2d4a5e;
-      font-family: 'Pacifico', cursive;
-    }
+      color: #c9a671eb;
     p {
       font-size: 16px;
       color:black;
     }
     a {
-      color: #2d4a5e;
+      color: #c9a671eb;
       text-decoration: none;
     }
-    

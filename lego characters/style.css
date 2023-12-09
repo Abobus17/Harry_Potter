@@ -1,0 +1,17 @@
+body {
+    background-color: #787aaaeb;
+    font-family: 'Pacifico', cursive;
+  }
+  #header {
+    background: #61628eeb;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  h2{
+    color:#ffffffeb;
+  }
+  a {
+    color: #ffffffeb;
+    text-decoration: none;
+  }

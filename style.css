@@ -1,6 +1,5 @@
 body {
     background-color: #f2f2f2;
-    font-family: 'Arial', sans-serif;
   }
   
   #container {
@@ -13,6 +12,7 @@ body {
     color: white;
     padding: 20px;
     text-align: center;
+    font-family: 'Pacifico', cursive;
   }
   
   #navigation {
@@ -20,6 +20,7 @@ body {
     overflow: hidden;
     color: white;
     text-align: center;
+    font-family: 'Pacifico', cursive;
   }
   
   #navigation a {
@@ -35,6 +36,7 @@ body {
     padding: 20px;
     box-sizing: border-box;
     float: left;
+    font-family: 'Arial', sans-serif;
   }
   
   .post {
@@ -55,6 +57,7 @@ body {
   
   h3 {
     color: #8284bfeb;
+    font-family: 'Pacifico', cursive;
   }
   
   p {
@@ -76,6 +79,7 @@ body {
     padding: 20px;
     text-align: center;
     clear: both;
+    font-family:"Candara";
   }
   
   .footer-column {
